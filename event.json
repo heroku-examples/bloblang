@@ -1,1 +1,7 @@
-{"Account__c":{"string":"Dickenson plc"},"Amount__c":{"double":15000},"CreatedById":"005bm00000AWUWfAAP","CreatedDate":1736968069554,"Subsidiary__c":{"string":"ACME UK Ltd"}}
+{
+  "Account__c": { "string": "Dickenson plc" },
+  "Amount__c": { "double": 15000 },
+  "CreatedById": "005bm00000AWUWfAAP",
+  "CreatedDate": 1736968069554,
+  "Subsidiary__c": { "string": "ACME UK Ltd" }
+}
